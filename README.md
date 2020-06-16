@@ -1,2 +1,2 @@
 # Nosedive
-Audio Effects Plugin with Tremolo, Chorus, and Delay
+Effects plugin that changes overtime, relative to each note played
